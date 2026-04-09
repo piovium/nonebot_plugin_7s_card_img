@@ -10253,7 +10253,8 @@
       "yygx",
       "月与乐园",
       "挪德卡莱共鸣",
-      "挪德共鸣"
+      "挪德共鸣",
+      "月故"
     ],
     "child": []
   },
@@ -10273,7 +10274,10 @@
     "englishName": "Flins",
     "pinyin": "feilinsi",
     "aliases": [
-      "fls"
+      "fls",
+      "老灯",
+      "神秘怕黑男",
+      "灯哥"
     ],
     "child": [
       {
@@ -10289,6 +10293,10 @@
         "name": "幽焰显迹"
       },
       {
+        "id": 114182,
+        "name": "北国枪阵"
+      },
+      {
         "id": 14183,
         "name": "旧仪·夜客致访"
       },
@@ -10297,8 +10305,8 @@
         "name": "月兆祝赐·旧世潜藏"
       },
       {
-        "id": 204,
-        "name": "电击"
+        "id": 14185,
+        "name": "雷霆交响"
       }
     ]
   },
@@ -10308,7 +10316,10 @@
     "englishName": "Lauma",
     "pinyin": "lawuma",
     "aliases": [
-      "lwm"
+      "lwm",
+      "鹿女",
+      "🦌",
+      "咏月使"
     ],
     "child": [
       {
@@ -10318,10 +10329,6 @@
       {
         "id": 17112,
         "name": "圣言述咏·终宵永眠"
-      },
-      {
-        "id": 117111,
-        "name": "霜林圣域"
       },
       {
         "id": 117111,
@@ -10347,7 +10354,11 @@
     "englishName": "Experimental Field Generator",
     "pinyin": "shiyanxingchanglifashengzhuangzhi",
     "aliases": [
-      "syxclfszz"
+      "syxclfszz",
+      "跳楼机",
+      "重力装置",
+      "重力机关",
+      "力场机关"
     ],
     "child": [
       {
@@ -10357,10 +10368,6 @@
       {
         "id": 26052,
         "name": "重力应用程式·点状抵消"
-      },
-      {
-        "id": 169,
-        "name": "高效切换"
       },
       {
         "id": 26053,
@@ -10379,13 +10386,9 @@
         "name": "振荡冲击"
       },
       {
-        "id": 126053,
-        "name": "回避"
+        "id": 126054,
+        "name": "力场操控"
       },
-      {
-        "id": 126052,
-        "name": "振荡冲击"
-      }
     ]
   },
   {
@@ -10402,10 +10405,10 @@
   {
     "id": 217111,
     "name": "「唇啊，为我纺出歌与吟哦」",
-    "englishName": "\"O Lips, Weave Me Songs and Psalms\"",
+    "englishName": "O Lips, Weave Me Songs and Psalms",
     "pinyin": "「chuna，weiwofangchugeyuyine」",
     "aliases": [
-      "「ca，wwfcgyye」",
+      "cawwfcgyye",
       "菈乌玛天赋"
     ],
     "child": []
@@ -10417,7 +10420,8 @@
     "pinyin": "zhonglichangyu",
     "aliases": [
       "zlcy",
-      "实验性场力发生装置天赋"
+      "实验性场力发生装置天赋",
+      "跳楼机天赋"
     ],
     "child": []
   },
@@ -10427,7 +10431,10 @@
     "englishName": "Gladiator's Finale",
     "pinyin": "juedoushidezhongmuli",
     "aliases": [
-      "jdsdzml"
+      "jdsdzml",
+      "角斗套",
+      "大角斗",
+      "大红"
     ],
     "child": []
   },
@@ -10447,7 +10454,10 @@
     "englishName": "The Other Side of the Frostmoon",
     "pinyin": "lingyicedeshuangyue",
     "aliases": [
-      "lycdsy"
+      "lycdsy",
+      "爱依菈",
+      "爱莉厄",
+      "娄维娅"
     ],
     "child": []
   },
@@ -10457,7 +10467,16 @@
     "englishName": "Elemental Transfiguration: Rimegrass Blessing",
     "pinyin": "yuansuhuanbian：bingcaozhuyou",
     "aliases": [
-      "yshb：bczy"
+      "yshbbczy",
+      "bczy",
+      "冰草祝佑",
+      "冰草幻变",
+      "冰草",
+      "草冰祝佑",
+      "草冰幻变",
+      "草冰",
+      "棘霜",
+      "寒蔓"
     ],
     "child": [
       {
@@ -10476,7 +10495,20 @@
     "englishName": "Elemental Transfiguration: Stormgale Blessing",
     "pinyin": "yuansuhuanbian：leifengzhuyou",
     "aliases": [
-      "yshb：lfzy"
+      "yshblfzy",
+      "lfzy",
+      "雷风祝佑",
+      "雷风幻变",
+      "雷风",
+      "风雷祝佑",
+      "风雷幻变",
+      "风雷",
+      "扩雷祝佑",
+      "扩雷幻变",
+      "扩雷",
+      "雷扩散",
+      "疾霆",
+      "罡风"
     ],
     "child": [
       {
@@ -10495,8 +10527,20 @@
     "englishName": "Roulette Special",
     "pinyin": "zhuanpantediao",
     "aliases": [
-      "zptd"
+      "zptd",
+      "轮盘",
+      "轮盘特调",
+      "大号汤",
+      "4倍汤",
+      "4费汤",
+      "四倍汤",
+      "四费汤"
     ],
-    "child": []
+    "child": [
+      {
+        "id": 209,
+        "name": "打磨利刃"
+      }
+    ]
   }
 ]
