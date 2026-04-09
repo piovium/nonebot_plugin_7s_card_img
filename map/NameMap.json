@@ -10266,5 +10266,237 @@
       "qssj"
     ],
     "child": []
+  },
+  {
+    "id": 1418,
+    "name": "菲林斯",
+    "englishName": "Flins",
+    "pinyin": "feilinsi",
+    "aliases": [
+      "fls"
+    ],
+    "child": [
+      {
+        "id": 14181,
+        "name": "扈圣魔枪"
+      },
+      {
+        "id": 14182,
+        "name": "古律·孤灯遗秘"
+      },
+      {
+        "id": 114181,
+        "name": "幽焰显迹"
+      },
+      {
+        "id": 14183,
+        "name": "旧仪·夜客致访"
+      },
+      {
+        "id": 14184,
+        "name": "月兆祝赐·旧世潜藏"
+      },
+      {
+        "id": 204,
+        "name": "电击"
+      }
+    ]
+  },
+  {
+    "id": 1711,
+    "name": "菈乌玛",
+    "englishName": "Lauma",
+    "pinyin": "lawuma",
+    "aliases": [
+      "lwm"
+    ],
+    "child": [
+      {
+        "id": 17111,
+        "name": "林麓旅踏"
+      },
+      {
+        "id": 17112,
+        "name": "圣言述咏·终宵永眠"
+      },
+      {
+        "id": 117111,
+        "name": "霜林圣域"
+      },
+      {
+        "id": 117111,
+        "name": "霜林圣域"
+      },
+      {
+        "id": 17113,
+        "name": "圣言述咏·众心为月"
+      },
+      {
+        "id": 117112,
+        "name": "「苍色祷歌」"
+      },
+      {
+        "id": 17114,
+        "name": "月兆祝赐·千籁恩宠"
+      }
+    ]
+  },
+  {
+    "id": 2605,
+    "name": "实验性场力发生装置",
+    "englishName": "Experimental Field Generator",
+    "pinyin": "shiyanxingchanglifashengzhuangzhi",
+    "aliases": [
+      "syxclfszz"
+    ],
+    "child": [
+      {
+        "id": 26051,
+        "name": "重力应用程式·砸击"
+      },
+      {
+        "id": 26052,
+        "name": "重力应用程式·点状抵消"
+      },
+      {
+        "id": 169,
+        "name": "高效切换"
+      },
+      {
+        "id": 26053,
+        "name": "重力应用程式·削减场域"
+      },
+      {
+        "id": 126051,
+        "name": "低重力背景"
+      },
+      {
+        "id": 126053,
+        "name": "回避"
+      },
+      {
+        "id": 126052,
+        "name": "振荡冲击"
+      },
+      {
+        "id": 126053,
+        "name": "回避"
+      },
+      {
+        "id": 126052,
+        "name": "振荡冲击"
+      }
+    ]
+  },
+  {
+    "id": 214181,
+    "name": "拨开雪翳之幕",
+    "englishName": "Part the Veil of Snow",
+    "pinyin": "bokaixueyizhimu",
+    "aliases": [
+      "bkxyzm",
+      "菲林斯天赋"
+    ],
+    "child": []
+  },
+  {
+    "id": 217111,
+    "name": "「唇啊，为我纺出歌与吟哦」",
+    "englishName": "\"O Lips, Weave Me Songs and Psalms\"",
+    "pinyin": "「chuna，weiwofangchugeyuyine」",
+    "aliases": [
+      "「ca，wwfcgyye」",
+      "菈乌玛天赋"
+    ],
+    "child": []
+  },
+  {
+    "id": 226051,
+    "name": "重力场域",
+    "englishName": "",
+    "pinyin": "zhonglichangyu",
+    "aliases": [
+      "zlcy",
+      "实验性场力发生装置天赋"
+    ],
+    "child": []
+  },
+  {
+    "id": 312045,
+    "name": "角斗士的终幕礼",
+    "englishName": "Gladiator's Finale",
+    "pinyin": "juedoushidezhongmuli",
+    "aliases": [
+      "jdsdzml"
+    ],
+    "child": []
+  },
+  {
+    "id": 322034,
+    "name": "涅朵奇卡",
+    "englishName": "Netochka",
+    "pinyin": "nieduoqika",
+    "aliases": [
+      "ndqk"
+    ],
+    "child": []
+  },
+  {
+    "id": 330013,
+    "name": "另一侧的霜月",
+    "englishName": "The Other Side of the Frostmoon",
+    "pinyin": "lingyicedeshuangyue",
+    "aliases": [
+      "lycdsy"
+    ],
+    "child": []
+  },
+  {
+    "id": 331008,
+    "name": "元素幻变：冰草祝佑",
+    "englishName": "Elemental Transfiguration: Rimegrass Blessing",
+    "pinyin": "yuansuhuanbian：bingcaozhuyou",
+    "aliases": [
+      "yshb：bczy"
+    ],
+    "child": [
+      {
+        "id": 303081,
+        "name": "冰草祝佑·棘霜"
+      },
+      {
+        "id": 303082,
+        "name": "冰草祝佑·寒蔓"
+      }
+    ]
+  },
+  {
+    "id": 331009,
+    "name": "元素幻变：雷风祝佑",
+    "englishName": "Elemental Transfiguration: Stormgale Blessing",
+    "pinyin": "yuansuhuanbian：leifengzhuyou",
+    "aliases": [
+      "yshb：lfzy"
+    ],
+    "child": [
+      {
+        "id": 303091,
+        "name": "雷风祝佑·疾霆"
+      },
+      {
+        "id": 303092,
+        "name": "雷风祝佑·罡风"
+      }
+    ]
+  },
+  {
+    "id": 333030,
+    "name": "转盘特调",
+    "englishName": "Roulette Special",
+    "pinyin": "zhuanpantediao",
+    "aliases": [
+      "zptd"
+    ],
+    "child": []
   }
 ]
