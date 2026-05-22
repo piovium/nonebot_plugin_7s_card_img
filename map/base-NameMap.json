@@ -3773,6 +3773,33 @@
     ]
   },
   {
+    "id": 1712,
+    "name": "奈芙尔",
+    "englishName": "Nefer",
+    "pinyin": "naifuer",
+    "aliases": [
+      "nfe"
+    ],
+    "child": [
+      {
+        "id": 17121,
+        "name": "游虵吐信"
+      },
+      {
+        "id": 17122,
+        "name": "弈术·千夜一舞"
+      },
+      {
+        "id": 17123,
+        "name": "圣约·真眸幻戏"
+      },
+      {
+        "id": 17125,
+        "name": "月兆祝赐·廊下暮影"
+      }
+    ]
+  },
+  {
     "id": 2101,
     "name": "愚人众·冰萤术士",
     "englishName": "Fatui Cryo Cicin Mage",
@@ -3929,6 +3956,33 @@
       {
         "id": 122,
         "name": "生命之契"
+      }
+    ]
+  },
+  {
+    "id": 2105,
+    "name": "灵觉隐修的迷者",
+    "englishName": "Wayward Hermetic Spiritspeaker",
+    "pinyin": "lingjueyinxiudemizhe",
+    "aliases": [
+      "ljyxdmz"
+    ],
+    "child": [
+      {
+        "id": 21051,
+        "name": "灵觉·寒星"
+      },
+      {
+        "id": 21052,
+        "name": "千变的浮彩"
+      },
+      {
+        "id": 21053,
+        "name": "沍寒的图绘"
+      },
+      {
+        "id": 21054,
+        "name": "斑斓的绚影"
       }
     ]
   },
@@ -4735,6 +4789,33 @@
       {
         "id": 25034,
         "name": "不朽亡骸·风"
+      }
+    ]
+  },
+  {
+    "id": 2504,
+    "name": "黑蛇骑士·斩风之剑",
+    "englishName": "Black Serpent Knight: Windcutter",
+    "pinyin": "heisheqishi·zhanfengzhijian",
+    "aliases": [
+      "hsqs·zfzj"
+    ],
+    "child": [
+      {
+        "id": 25041,
+        "name": "半剑技术"
+      },
+      {
+        "id": 25042,
+        "name": "低位撩斩"
+      },
+      {
+        "id": 25043,
+        "name": "近卫姿态"
+      },
+      {
+        "id": 25044,
+        "name": "前驱气势"
       }
     ]
   },
@@ -6648,6 +6729,17 @@
     "child": []
   },
   {
+    "id": 217121,
+    "name": "决胜于逆转之时",
+    "englishName": "Victory Flows from the Turning of Tides",
+    "pinyin": "jueshengyunizhuanzhishi",
+    "aliases": [
+      "jsynzzs",
+      "奈芙尔天赋"
+    ],
+    "child": []
+  },
+  {
     "id": 221011,
     "name": "冰萤寒光",
     "englishName": "Cicin's Cold Glare",
@@ -6707,6 +6799,22 @@
       {
         "id": 122,
         "name": "生命之契"
+      }
+    ]
+  },
+  {
+    "id": 221051,
+    "name": "流变的绘形",
+    "englishName": "Flow of Forms",
+    "pinyin": "liubiandehuixing",
+    "aliases": [
+      "lbdhx",
+      "灵觉隐修的迷者天赋"
+    ],
+    "child": [
+      {
+        "id": 203,
+        "name": "护盾"
       }
     ]
   },
@@ -7074,6 +7182,26 @@
     "child": []
   },
   {
+    "id": 225041,
+    "name": "「曾如孤风阻隔黑灾蔓延…」",
+    "englishName": "\"Once, the Lone Wind That Kept the Dark Calamity at Bay...\"",
+    "pinyin": "「cengrugufengzugeheizaimanyan…」",
+    "aliases": [
+      "「crgfzghzmy…」",
+      "黑蛇骑士·斩风之剑天赋"
+    ],
+    "child": [
+      {
+        "id": 210,
+        "name": "抗性"
+      },
+      {
+        "id": 210,
+        "name": "抗性"
+      }
+    ]
+  },
+  {
     "id": 226011,
     "name": "重铸：岩盔",
     "englishName": "Stonehide Reforged",
@@ -7143,7 +7271,7 @@
   {
     "id": 226051,
     "name": "重力场域",
-    "englishName": "",
+    "englishName": "Gravity Field",
     "pinyin": "zhonglichangyu",
     "aliases": [
       "zlcy",
@@ -8870,6 +8998,16 @@
     "child": []
   },
   {
+    "id": 321041,
+    "name": "噩梦的预兆",
+    "englishName": "Nightmare Omen",
+    "pinyin": "emengdeyuzhao",
+    "aliases": [
+      "emdyz"
+    ],
+    "child": []
+  },
+  {
     "id": 322001,
     "name": "派蒙",
     "englishName": "Paimon",
@@ -9551,6 +9689,44 @@
       {
         "id": 303092,
         "name": "雷风祝佑·罡风"
+      }
+    ]
+  },
+  {
+    "id": 331010,
+    "name": "元素幻变：水风祝佑",
+    "englishName": "Elemental Transfiguration: Aquabreeze Blessing",
+    "pinyin": "yuansuhuanbian：shuifengzhuyou",
+    "aliases": [
+      "yshb：sfzy"
+    ],
+    "child": [
+      {
+        "id": 303101,
+        "name": "水风祝佑·水爆"
+      },
+      {
+        "id": 303102,
+        "name": "水风祝佑·漩风"
+      }
+    ]
+  },
+  {
+    "id": 331011,
+    "name": "元素幻变：雷草祝佑",
+    "englishName": "Elemental Transfiguration: Thunderbloom Blessing",
+    "pinyin": "yuansuhuanbian：leicaozhuyou",
+    "aliases": [
+      "yshb：lczy"
+    ],
+    "child": [
+      {
+        "id": 303111,
+        "name": "雷草祝佑·碎霆"
+      },
+      {
+        "id": 3003112,
+        "name": "雷草祝佑·锐核"
       }
     ]
   },
@@ -10403,6 +10579,26 @@
     "child": []
   },
   {
+    "id": 332063,
+    "name": "小小灵蕈大幻戏",
+    "englishName": "Lil' Fungi's Fun-Tastic Fiesta",
+    "pinyin": "xiaoxiaolingxundahuanxi",
+    "aliases": [
+      "xxlxdhx"
+    ],
+    "child": []
+  },
+  {
+    "id": 332064,
+    "name": "科研的动力",
+    "englishName": "The Power of Research",
+    "pinyin": "keyandedongli",
+    "aliases": [
+      "kyddl"
+    ],
+    "child": []
+  },
+  {
     "id": 333001,
     "name": "绝云锅巴",
     "englishName": "Jueyun Guoba",
@@ -10644,6 +10840,16 @@
     "pinyin": "zhuanpantediao",
     "aliases": [
       "zptd"
+    ],
+    "child": []
+  },
+  {
+    "id": 333031,
+    "name": "白灵果派",
+    "englishName": "Lakkaberry Pie",
+    "pinyin": "bailingguopai",
+    "aliases": [
+      "blgp"
     ],
     "child": []
   }
