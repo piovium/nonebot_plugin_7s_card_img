@@ -7985,7 +7985,8 @@
     "aliases": [
       "丘丘人伏兵",
       "丘丘人",
-      "sydhh"
+      "sydhh",
+      "魔物共鸣"
     ],
     "child": []
   },
@@ -10551,7 +10552,12 @@
     "englishName": "Nefer",
     "pinyin": "naifuer",
     "aliases": [
-      "nfe"
+      "nfe",
+      "奈姐",
+      "蛇女",
+      "蛇姐",
+      "秘闻馆主",
+      "🐍"
     ],
     "child": [
       {
@@ -10567,8 +10573,16 @@
         "name": "圣约·真眸幻戏"
       },
       {
+        "id": 17124,
+        "name": "幻戏"
+      },
+      {
         "id": 17125,
         "name": "月兆祝赐·廊下暮影"
+      },
+      {
+        "id": 117121,
+        "name": "诳言之核"
       }
     ]
   },
@@ -10578,7 +10592,19 @@
     "englishName": "Wayward Hermetic Spiritspeaker",
     "pinyin": "lingjueyinxiudemizhe",
     "aliases": [
-      "ljyxdmz"
+      "ljyxdmz",
+      "烟谜主祭司",
+      "祭司",
+      "冰祭司",
+      "冰萨满",
+      "冰迷者",
+      "冰大灵",
+      "冰凌",
+      "多重",
+      "实像",
+      "坚冰",
+      "支柱",
+      "迅影"
     ],
     "child": [
       {
@@ -10596,6 +10622,38 @@
       {
         "id": 21054,
         "name": "斑斓的绚影"
+      },
+      {
+        "id": 121051,
+        "name": "浮彩"
+      },
+      {
+        "id": 121052,
+        "name": "浮彩分身"
+      },
+      {
+        "id": 121054,
+        "name": "浮彩·冰凌"
+      },
+      {
+        "id": 121055,
+        "name": "浮彩·多重"
+      },
+      {
+        "id": 121056,
+        "name": "浮彩·实像"
+      },
+      {
+        "id": 121057,
+        "name": "浮彩·支柱"
+      },
+      {
+        "id": 121058,
+        "name": "浮彩·坚冰"
+      },
+      {
+        "id": 121059,
+        "name": "浮彩·迅影"
       }
     ]
   },
@@ -10605,7 +10663,13 @@
     "englishName": "Black Serpent Knight: Windcutter",
     "pinyin": "heisheqishi·zhanfengzhijian",
     "aliases": [
-      "hsqs·zfzj"
+      "hsqszfzj",
+      "黑蛇众",
+      "空壳怪",
+      "空壳骑士",
+      "风空壳",
+      "风黑蛇",
+      "空壳"
     ],
     "child": [
       {
@@ -10623,6 +10687,14 @@
       {
         "id": 25044,
         "name": "前驱气势"
+      },
+      {
+        "id": 25045,
+        "name": "舍身架势"
+      },
+      {
+        "id": 25046,
+        "name": "怒风循击"
       }
     ]
   },
@@ -10646,12 +10718,7 @@
       "lbdhx",
       "灵觉隐修的迷者天赋"
     ],
-    "child": [
-      {
-        "id": 203,
-        "name": "护盾"
-      }
-    ]
+    "child": []
   },
   {
     "id": 225041,
@@ -10659,19 +10726,10 @@
     "englishName": "\"Once, the Lone Wind That Kept the Dark Calamity at Bay...\"",
     "pinyin": "「cengrugufengzugeheizaimanyan…」",
     "aliases": [
-      "「crgfzghzmy…」",
+      "crgfzghzmy",
       "黑蛇骑士·斩风之剑天赋"
     ],
-    "child": [
-      {
-        "id": 210,
-        "name": "抗性"
-      },
-      {
-        "id": 210,
-        "name": "抗性"
-      }
-    ]
+    "child": []
   },
   {
     "id": 321041,
@@ -10679,7 +10737,9 @@
     "englishName": "Nightmare Omen",
     "pinyin": "emengdeyuzhao",
     "aliases": [
-      "emdyz"
+      "emdyz",
+      "苦壑崖",
+      "大眼"
     ],
     "child": []
   },
@@ -10689,7 +10749,20 @@
     "englishName": "Elemental Transfiguration: Aquabreeze Blessing",
     "pinyin": "yuansuhuanbian：shuifengzhuyou",
     "aliases": [
-      "yshb：sfzy"
+      "yshb：sfzy",
+      "sfzy",
+      "水风祝佑",
+      "水风幻变",
+      "水风",
+      "风水祝佑",
+      "风水幻变",
+      "风水",
+      "扩水祝佑",
+      "扩水幻变",
+      "扩水",
+      "水扩散",
+      "水爆",
+      "漩风"
     ],
     "child": [
       {
@@ -10708,7 +10781,28 @@
     "englishName": "Elemental Transfiguration: Thunderbloom Blessing",
     "pinyin": "yuansuhuanbian：leicaozhuyou",
     "aliases": [
-      "yshb：lczy"
+      "Elemental Transfiguration: Quicken Blessing",
+      "Elemental Transfiguration: Catalyzing Blessing",
+      "Quicken",
+      "Catalyzing",
+      "元素幻变：激化祝佑",
+      "激化祝佑",
+      "激化",
+      "激化幻变",
+      "yshb：jhzy",
+      "jhzy",
+      "yshb：lczy",
+      "sfzy",
+      "雷草祝佑",
+      "雷草幻变",
+      "雷草",
+      "草雷祝佑",
+      "草雷幻变",
+      "草雷",
+      "激化祝佑·碎霆",
+      "激化祝佑·锐核",
+      "碎霆",
+      "锐核"
     ],
     "child": [
       {
@@ -10727,7 +10821,9 @@
     "englishName": "Lil' Fungi's Fun-Tastic Fiesta",
     "pinyin": "xiaoxiaolingxundahuanxi",
     "aliases": [
-      "xxlxdhx"
+      "xxlxdhx",
+      "蕈兽",
+      "魔物共鸣"
     ],
     "child": []
   },
