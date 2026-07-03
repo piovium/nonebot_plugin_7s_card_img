@@ -1700,6 +1700,37 @@
     ]
   },
   {
+    "id": 1317,
+    "name": "杜林",
+    "englishName": "Durin",
+    "pinyin": "dulin",
+    "aliases": [
+      "dl"
+    ],
+    "child": [
+      {
+        "id": 13171,
+        "name": "芒焰之翼斩"
+      },
+      {
+        "id": 13172,
+        "name": "二元式·聚分熔炼"
+      },
+      {
+        "id": 13173,
+        "name": "白化法·如光流变"
+      },
+      {
+        "id": 113171,
+        "name": "白化之是"
+      },
+      {
+        "id": 13175,
+        "name": "光灵遵神数显现"
+      }
+    ]
+  },
+  {
     "id": 1401,
     "name": "菲谢尔",
     "englishName": "Fischl",
@@ -2895,6 +2926,41 @@
     ]
   },
   {
+    "id": 1516,
+    "name": "雅珂达",
+    "englishName": "Jahoda",
+    "pinyin": "yakeda",
+    "aliases": [
+      "ykd"
+    ],
+    "child": [
+      {
+        "id": 15161,
+        "name": "见机行矢"
+      },
+      {
+        "id": 15162,
+        "name": "奇策·财富分配方案"
+      },
+      {
+        "id": 170,
+        "name": "敏捷切换"
+      },
+      {
+        "id": 15163,
+        "name": "秘器·猎人的七道具"
+      },
+      {
+        "id": 115166,
+        "name": "猫型家用互助协调器"
+      },
+      {
+        "id": 15164,
+        "name": "月兆祝赐·檐上趱行"
+      }
+    ]
+  },
+  {
     "id": 1601,
     "name": "凝光",
     "englishName": "Ningguang",
@@ -3790,6 +3856,10 @@
         "name": "弈术·千夜一舞"
       },
       {
+        "id": 210,
+        "name": "抗性"
+      },
+      {
         "id": 17123,
         "name": "圣约·真眸幻戏"
       },
@@ -4224,6 +4294,65 @@
       {
         "id": 22074,
         "name": "圣骸感应"
+      }
+    ]
+  },
+  {
+    "id": 2208,
+    "name": "无相之水",
+    "englishName": "Hydro Hypostasis",
+    "pinyin": "wuxiangzhishui",
+    "aliases": [
+      "wxzs"
+    ],
+    "child": [
+      {
+        "id": 22081,
+        "name": "水珠漫射"
+      },
+      {
+        "id": 22082,
+        "name": "涌动洪流"
+      },
+      {
+        "id": 22083,
+        "name": "危祸之潮"
+      },
+      {
+        "id": 122082,
+        "name": "水滴"
+      },
+      {
+        "id": 122081,
+        "name": "水晶核心"
+      },
+      {
+        "id": 122081,
+        "name": "水晶核心"
+      },
+      {
+        "id": 22084,
+        "name": "水晶核心"
+      },
+      {
+        "id": 122081,
+        "name": "水晶核心"
+      },
+      {
+        "id": 122082,
+        "name": "水滴"
+      },
+      {
+        "id": 122081,
+        "name": "水晶核心"
+      },
+      {
+        "id": 122081,
+        "name": "水晶核心"
+      },
+      {
+        "id": 122082,
+        "name": "水滴"
       }
     ]
   },
@@ -5490,6 +5619,26 @@
     "child": []
   },
   {
+    "id": 212032,
+    "name": "天步真原",
+    "englishName": "Makoto of the Heaven Steps",
+    "pinyin": "tianbuzhenyuan",
+    "aliases": [
+      "tbzy",
+      "莫娜天赋"
+    ],
+    "child": [
+      {
+        "id": 212033,
+        "name": "天步真原（生效中）"
+      },
+      {
+        "id": 212033,
+        "name": "天步真原（生效中）"
+      }
+    ]
+  },
+  {
     "id": 212041,
     "name": "深渊之灾·凝水盛放",
     "englishName": "Abyssal Mayhem: Hydrospout",
@@ -5766,6 +5915,26 @@
     ]
   },
   {
+    "id": 213062,
+    "name": "火花魔法",
+    "englishName": "Spark Magic",
+    "pinyin": "huohuamofa",
+    "aliases": [
+      "hhmf",
+      "可莉天赋"
+    ],
+    "child": [
+      {
+        "id": 113061,
+        "name": "爆裂火花"
+      },
+      {
+        "id": 210,
+        "name": "抗性"
+      }
+    ]
+  },
+  {
     "id": 213071,
     "name": "血之灶火",
     "englishName": "Sanguine Rouge",
@@ -5899,6 +6068,22 @@
     "child": []
   },
   {
+    "id": 213171,
+    "name": "红土之逆",
+    "englishName": "Adamah's Redemption",
+    "pinyin": "hongtuzhini",
+    "aliases": [
+      "htzn",
+      "杜林天赋"
+    ],
+    "child": [
+      {
+        "id": 113172,
+        "name": "黑度之否"
+      }
+    ]
+  },
+  {
     "id": 214011,
     "name": "噬星魔鸦",
     "englishName": "Stellar Predator",
@@ -5908,6 +6093,26 @@
       "菲谢尔天赋"
     ],
     "child": [
+      {
+        "id": 114011,
+        "name": "奥兹"
+      }
+    ]
+  },
+  {
+    "id": 214012,
+    "name": "宵世幻奏",
+    "englishName": "Phantasm of Night",
+    "pinyin": "xiaoshihuanzou",
+    "aliases": [
+      "xshz",
+      "菲谢尔天赋"
+    ],
+    "child": [
+      {
+        "id": 114011,
+        "name": "奥兹"
+      },
       {
         "id": 114011,
         "name": "奥兹"
@@ -6197,6 +6402,26 @@
     ]
   },
   {
+    "id": 215032,
+    "name": "颂时风若",
+    "englishName": "Wind-Swept Feathers",
+    "pinyin": "songshifengruo",
+    "aliases": [
+      "ssfr",
+      "温迪天赋"
+    ],
+    "child": [
+      {
+        "id": 115034,
+        "name": "暴风之眼"
+      },
+      {
+        "id": 115034,
+        "name": "暴风之眼"
+      }
+    ]
+  },
+  {
     "id": 215041,
     "name": "降魔·护法夜叉",
     "englishName": "Conqueror of Evil: Guardian Yaksha",
@@ -6354,6 +6579,17 @@
     "aliases": [
       "wfzsbz",
       "伊法天赋"
+    ],
+    "child": []
+  },
+  {
+    "id": 215161,
+    "name": "暗巷的黠慧",
+    "englishName": "Backstreet Guile",
+    "pinyin": "anxiangdexiahui",
+    "aliases": [
+      "axdxh",
+      "雅珂达天赋"
     ],
     "child": []
   },
@@ -6917,6 +7153,30 @@
       "圣骸角鳄天赋"
     ],
     "child": []
+  },
+  {
+    "id": 222081,
+    "name": "诡谲恶浪",
+    "englishName": "Treacherous Tides",
+    "pinyin": "guijueelang",
+    "aliases": [
+      "gjel",
+      "无相之水天赋"
+    ],
+    "child": [
+      {
+        "id": 122082,
+        "name": "水滴"
+      },
+      {
+        "id": 122081,
+        "name": "水晶核心"
+      },
+      {
+        "id": 122081,
+        "name": "水晶核心"
+      }
+    ]
   },
   {
     "id": 223011,
@@ -10595,6 +10855,26 @@
     "pinyin": "keyandedongli",
     "aliases": [
       "kyddl"
+    ],
+    "child": []
+  },
+  {
+    "id": 332065,
+    "name": "「魔女的课业」",
+    "englishName": "「Witch's Homework」",
+    "pinyin": "「monvdekeye」",
+    "aliases": [
+      "「mndky」"
+    ],
+    "child": []
+  },
+  {
+    "id": 332066,
+    "name": "齐聚共饮",
+    "englishName": "Gather for a Drink",
+    "pinyin": "qijugongyin",
+    "aliases": [
+      "qjgy"
     ],
     "child": []
   },
