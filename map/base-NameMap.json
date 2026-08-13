@@ -1152,6 +1152,37 @@
     ]
   },
   {
+    "id": 1217,
+    "name": "哥伦比娅",
+    "englishName": "Columbina",
+    "pinyin": "gelunbiya",
+    "aliases": [
+      "glby"
+    ],
+    "child": [
+      {
+        "id": 12171,
+        "name": "月露泼降"
+      },
+      {
+        "id": 12172,
+        "name": "万古潮汐"
+      },
+      {
+        "id": 12173,
+        "name": "她的乡愁"
+      },
+      {
+        "id": 112161,
+        "name": "冷静一下鸭"
+      },
+      {
+        "id": 12174,
+        "name": "月兆祝赐·借汝月光"
+      }
+    ]
+  },
+  {
     "id": 1301,
     "name": "迪卢克",
     "englishName": "Diluc",
@@ -1715,6 +1746,14 @@
       {
         "id": 13172,
         "name": "二元式·聚分熔炼"
+      },
+      {
+        "id": 113175,
+        "name": "精质转变"
+      },
+      {
+        "id": 169,
+        "name": "高效切换"
       },
       {
         "id": 13173,
@@ -3414,6 +3453,37 @@
       {
         "id": 116113,
         "name": "「源音采样」·岩"
+      }
+    ]
+  },
+  {
+    "id": 1612,
+    "name": "叶洛亚",
+    "englishName": "Illuga",
+    "pinyin": "yeluoya",
+    "aliases": [
+      "yly"
+    ],
+    "child": [
+      {
+        "id": 16121,
+        "name": "守誓枪术"
+      },
+      {
+        "id": 16122,
+        "name": "衔莺破晓"
+      },
+      {
+        "id": 16123,
+        "name": "鉴照无影"
+      },
+      {
+        "id": 116122,
+        "name": "夜莺之歌"
+      },
+      {
+        "id": 16124,
+        "name": "月兆祝赐·凌冬不凋"
       }
     ]
   },
@@ -5339,6 +5409,16 @@
     ]
   },
   {
+    "id": 116121,
+    "name": "阿咚",
+    "englishName": "Aedon",
+    "pinyin": "adong",
+    "aliases": [
+      "ad"
+    ],
+    "child": []
+  },
+  {
     "id": 211011,
     "name": "唯此一心",
     "englishName": "Undivided Heart",
@@ -5621,22 +5701,13 @@
   {
     "id": 212032,
     "name": "天步真原",
-    "englishName": "Makoto of the Heaven Steps",
+    "englishName": "Genesis of Starsigns",
     "pinyin": "tianbuzhenyuan",
     "aliases": [
       "tbzy",
       "莫娜天赋"
     ],
-    "child": [
-      {
-        "id": 212033,
-        "name": "天步真原（生效中）"
-      },
-      {
-        "id": 212033,
-        "name": "天步真原（生效中）"
-      }
-    ]
+    "child": []
   },
   {
     "id": 212041,
@@ -5825,6 +5896,17 @@
     "child": []
   },
   {
+    "id": 212171,
+    "name": "遍照花海，隐入群山",
+    "englishName": "Radiance Over Blossoms and Peaks",
+    "pinyin": "bianzhaohuahai，yinruqunshan",
+    "aliases": [
+      "bzhh，yrqs",
+      "哥伦比娅天赋"
+    ],
+    "child": []
+  },
+  {
     "id": 213011,
     "name": "流火焦灼",
     "englishName": "Flowing Flame",
@@ -5917,7 +5999,7 @@
   {
     "id": 213062,
     "name": "火花魔法",
-    "englishName": "Spark Magic",
+    "englishName": "Sparkborne Magic",
     "pinyin": "huohuamofa",
     "aliases": [
       "hhmf",
@@ -5927,10 +6009,6 @@
       {
         "id": 113061,
         "name": "爆裂火花"
-      },
-      {
-        "id": 210,
-        "name": "抗性"
       }
     ]
   },
@@ -6102,7 +6180,7 @@
   {
     "id": 214012,
     "name": "宵世幻奏",
-    "englishName": "Phantasm of Night",
+    "englishName": "Phantasmal Nocturne",
     "pinyin": "xiaoshihuanzou",
     "aliases": [
       "xshz",
@@ -6129,6 +6207,34 @@
       "雷泽天赋"
     ],
     "child": []
+  },
+  {
+    "id": 214022,
+    "name": "苍雷奔涌",
+    "englishName": "Surge of Lightning",
+    "pinyin": "cangleibenyong",
+    "aliases": [
+      "clby",
+      "雷泽天赋"
+    ],
+    "child": [
+      {
+        "id": 114021,
+        "name": "雷狼"
+      },
+      {
+        "id": 114021,
+        "name": "雷狼"
+      },
+      {
+        "id": 114021,
+        "name": "雷狼"
+      },
+      {
+        "id": 114021,
+        "name": "雷狼"
+      }
+    ]
   },
   {
     "id": 214031,
@@ -6370,6 +6476,26 @@
     ]
   },
   {
+    "id": 215012,
+    "name": "七循之理",
+    "englishName": "Sevenfold Transmutation",
+    "pinyin": "qixunzhili",
+    "aliases": [
+      "qxzl",
+      "砂糖天赋"
+    ],
+    "child": [
+      {
+        "id": 115011,
+        "name": "大型风灵"
+      },
+      {
+        "id": 115011,
+        "name": "大型风灵"
+      }
+    ]
+  },
+  {
     "id": 215021,
     "name": "蒲公英的国土",
     "englishName": "Lands of Dandelion",
@@ -6404,7 +6530,7 @@
   {
     "id": 215032,
     "name": "颂时风若",
-    "englishName": "Wind-Swept Feathers",
+    "englishName": "Temporal Wind's Eulogy",
     "pinyin": "songshifengruo",
     "aliases": [
       "ssfr",
@@ -6653,6 +6779,30 @@
     ]
   },
   {
+    "id": 216042,
+    "name": "白芒之书",
+    "englishName": "Book of Blinding Light",
+    "pinyin": "baimangzhishu",
+    "aliases": [
+      "bmzs",
+      "阿贝多天赋"
+    ],
+    "child": [
+      {
+        "id": 116041,
+        "name": "阳华"
+      },
+      {
+        "id": 116041,
+        "name": "阳华"
+      },
+      {
+        "id": 116042,
+        "name": "瑰银"
+      }
+    ]
+  },
+  {
     "id": 216051,
     "name": "荒泷第一",
     "englishName": "Arataki Ichiban",
@@ -6780,6 +6930,26 @@
       "希诺宁天赋"
     ],
     "child": []
+  },
+  {
+    "id": 216121,
+    "name": "噬枝之麋",
+    "englishName": "Elk With Fanged Antlers",
+    "pinyin": "shizhizhimi",
+    "aliases": [
+      "szzm",
+      "叶洛亚天赋"
+    ],
+    "child": [
+      {
+        "id": 116122,
+        "name": "夜莺之歌"
+      },
+      {
+        "id": 116122,
+        "name": "夜莺之歌"
+      }
+    ]
   },
   {
     "id": 217011,
@@ -7157,7 +7327,7 @@
   {
     "id": 222081,
     "name": "诡谲恶浪",
-    "englishName": "Treacherous Tides",
+    "englishName": "Treacherous Torrent",
     "pinyin": "guijueelang",
     "aliases": [
       "gjel",
@@ -8587,6 +8757,16 @@
     "child": []
   },
   {
+    "id": 312046,
+    "name": "昔时浮想之思",
+    "englishName": "Recollection of Days Past",
+    "pinyin": "xishifuxiangzhisi",
+    "aliases": [
+      "xsfxzs"
+    ],
+    "child": []
+  },
+  {
     "id": 312101,
     "name": "破冰踏雪的回音",
     "englishName": "Broken Rime's Echo",
@@ -9835,6 +10015,16 @@
     "child": []
   },
   {
+    "id": 330014,
+    "name": "三月重临",
+    "englishName": "Return of the Three Moons",
+    "pinyin": "sanyuezhonglin",
+    "aliases": [
+      "syzl"
+    ],
+    "child": []
+  },
+  {
     "id": 331004,
     "name": "元素幻变：超导祝佑",
     "englishName": "Elemental Transfiguration: Superconduct Blessing",
@@ -9987,6 +10177,21 @@
       {
         "id": 3003112,
         "name": "雷草祝佑·锐核"
+      }
+    ]
+  },
+  {
+    "id": 331012,
+    "name": "元素幻变：超载祝佑",
+    "englishName": "Elemental Transfiguration: Overload Blessing",
+    "pinyin": "yuansuhuanbian：chaozaizhuyou",
+    "aliases": [
+      "yshb：czzy"
+    ],
+    "child": [
+      {
+        "id": 303121,
+        "name": "超载祝佑·追燃"
       }
     ]
   },
@@ -10861,7 +11066,7 @@
   {
     "id": 332065,
     "name": "「魔女的课业」",
-    "englishName": "「Witch's Homework」",
+    "englishName": "Witch's Homework",
     "pinyin": "「monvdekeye」",
     "aliases": [
       "「mndky」"
@@ -10871,7 +11076,7 @@
   {
     "id": 332066,
     "name": "齐聚共饮",
-    "englishName": "Gather for a Drink",
+    "englishName": "Feasting in a Shared Toast",
     "pinyin": "qijugongyin",
     "aliases": [
       "qjgy"
