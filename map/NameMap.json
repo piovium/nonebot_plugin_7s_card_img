@@ -11129,5 +11129,215 @@
       "须弥f4"
     ],
     "child": []
+  },
+  {
+    "id": 1217,
+    "name": "哥伦比娅",
+    "englishName": "Columbina",
+    "pinyin": "gelunbiya",
+    "aliases": [
+      "glby"
+    ],
+    "child": [
+      {
+        "id": 12171,
+        "name": "月露泼降"
+      },
+      {
+        "id": 12172,
+        "name": "万古潮汐"
+      },
+      {
+        "id": 12173,
+        "name": "她的乡愁"
+      },
+      {
+        "id": 112161,
+        "name": "冷静一下鸭"
+      },
+      {
+        "id": 12174,
+        "name": "月兆祝赐·借汝月光"
+      }
+    ]
+  },
+  {
+    "id": 1612,
+    "name": "叶洛亚",
+    "englishName": "Illuga",
+    "pinyin": "yeluoya",
+    "aliases": [
+      "yly"
+    ],
+    "child": [
+      {
+        "id": 16121,
+        "name": "守誓枪术"
+      },
+      {
+        "id": 16122,
+        "name": "衔莺破晓"
+      },
+      {
+        "id": 16123,
+        "name": "鉴照无影"
+      },
+      {
+        "id": 116122,
+        "name": "夜莺之歌"
+      },
+      {
+        "id": 16124,
+        "name": "月兆祝赐·凌冬不凋"
+      }
+    ]
+  },
+  {
+    "id": 116121,
+    "name": "阿咚",
+    "englishName": "Aedon",
+    "pinyin": "adong",
+    "aliases": [
+      "ad"
+    ],
+    "child": []
+  },
+  {
+    "id": 212171,
+    "name": "遍照花海，隐入群山",
+    "englishName": "Radiance Over Blossoms and Peaks",
+    "pinyin": "bianzhaohuahai，yinruqunshan",
+    "aliases": [
+      "bzhh，yrqs",
+      "哥伦比娅天赋"
+    ],
+    "child": []
+  },
+  {
+    "id": 214022,
+    "name": "苍雷奔涌",
+    "englishName": "Surge of Lightning",
+    "pinyin": "cangleibenyong",
+    "aliases": [
+      "clby",
+      "雷泽天赋"
+    ],
+    "child": [
+      {
+        "id": 114021,
+        "name": "雷狼"
+      },
+      {
+        "id": 114021,
+        "name": "雷狼"
+      },
+      {
+        "id": 114021,
+        "name": "雷狼"
+      },
+      {
+        "id": 114021,
+        "name": "雷狼"
+      }
+    ]
+  },
+  {
+    "id": 215012,
+    "name": "七循之理",
+    "englishName": "Sevenfold Transmutation",
+    "pinyin": "qixunzhili",
+    "aliases": [
+      "qxzl",
+      "砂糖天赋"
+    ],
+    "child": [
+      {
+        "id": 115011,
+        "name": "大型风灵"
+      },
+      {
+        "id": 115011,
+        "name": "大型风灵"
+      }
+    ]
+  },
+  {
+    "id": 216042,
+    "name": "白芒之书",
+    "englishName": "Book of Blinding Light",
+    "pinyin": "baimangzhishu",
+    "aliases": [
+      "bmzs",
+      "阿贝多天赋"
+    ],
+    "child": [
+      {
+        "id": 116041,
+        "name": "阳华"
+      },
+      {
+        "id": 116041,
+        "name": "阳华"
+      },
+      {
+        "id": 116042,
+        "name": "瑰银"
+      }
+    ]
+  },
+  {
+    "id": 216121,
+    "name": "噬枝之麋",
+    "englishName": "Elk With Fanged Antlers",
+    "pinyin": "shizhizhimi",
+    "aliases": [
+      "szzm",
+      "叶洛亚天赋"
+    ],
+    "child": [
+      {
+        "id": 116122,
+        "name": "夜莺之歌"
+      },
+      {
+        "id": 116122,
+        "name": "夜莺之歌"
+      }
+    ]
+  },
+  {
+    "id": 312046,
+    "name": "昔时浮想之思",
+    "englishName": "Recollection of Days Past",
+    "pinyin": "xishifuxiangzhisi",
+    "aliases": [
+      "xsfxzs"
+    ],
+    "child": []
+  },
+  {
+    "id": 330014,
+    "name": "三月重临",
+    "englishName": "Return of the Three Moons",
+    "pinyin": "sanyuezhonglin",
+    "aliases": [
+      "syzl"
+    ],
+    "child": []
+  },
+  {
+    "id": 331012,
+    "name": "元素幻变：超载祝佑",
+    "englishName": "Elemental Transfiguration: Overload Blessing",
+    "pinyin": "yuansuhuanbian：chaozaizhuyou",
+    "aliases": [
+      "yshb：czzy"
+    ],
+    "child": [
+      {
+        "id": 303121,
+        "name": "超载祝佑·追燃"
+      }
+    ]
   }
 ]
