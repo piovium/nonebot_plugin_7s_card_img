@@ -4685,7 +4685,9 @@
     "pinyin": "juexing",
     "aliases": [
       "jx",
-      "雷泽天赋"
+      "雷泽天赋",
+      "雷泽天赋1",
+      "雷泽天赋一"
     ],
     "child": []
   },
@@ -4818,7 +4820,9 @@
     "pinyin": "hunyuanshangzenglun",
     "aliases": [
       "hyszl",
-      "砂糖天赋"
+      "砂糖天赋",
+      "砂糖天赋1",
+      "砂糖天赋一"
     ],
     "child": []
   },
@@ -4980,7 +4984,9 @@
     "pinyin": "shenxingzhiyun",
     "aliases": [
       "阿贝多天赋",
-      "sxzy"
+      "sxzy",
+      "阿贝多天赋1",
+      "阿贝多天赋一"
     ],
     "child": []
   },
@@ -6331,6 +6337,9 @@
     "pinyin": "shaonvyishidefangyan",
     "aliases": [
       "snysdfy",
+      "少女",
+      "小少女",
+      "少女头",
       "少女套"
     ],
     "child": []
@@ -10299,6 +10308,7 @@
     "pinyin": "feilinsi",
     "aliases": [
       "fls",
+      "执灯人",
       "老灯",
       "怕黑男",
       "怕黑哥",
@@ -11136,7 +11146,18 @@
     "englishName": "Columbina",
     "pinyin": "gelunbiya",
     "aliases": [
-      "glby"
+      "glby",
+      "少女",
+      "希珀塞莱尼娅",
+      "哥伦比娅希珀塞莱尼娅",
+      "库塔尔",
+      "月神",
+      "三月女神",
+      "空月",
+      "新月",
+      "月之少女",
+      "鸽子",
+      "小鸽子"
     ],
     "child": [
       {
@@ -11152,8 +11173,12 @@
         "name": "她的乡愁"
       },
       {
-        "id": 112161,
-        "name": "冷静一下鸭"
+        "id": 112171,
+        "name": "引力涟漪"
+      },
+      {
+        "id": 112172,
+        "name": "月之领域"
       },
       {
         "id": 12174,
@@ -11167,7 +11192,8 @@
     "englishName": "Illuga",
     "pinyin": "yeluoya",
     "aliases": [
-      "yly"
+      "yly",
+      "执灯人"
     ],
     "child": [
       {
@@ -11183,6 +11209,10 @@
         "name": "鉴照无影"
       },
       {
+        "id": 116121,
+        "name": "阿咚"
+      },
+      {
         "id": 116122,
         "name": "夜莺之歌"
       },
@@ -11193,23 +11223,14 @@
     ]
   },
   {
-    "id": 116121,
-    "name": "阿咚",
-    "englishName": "Aedon",
-    "pinyin": "adong",
-    "aliases": [
-      "ad"
-    ],
-    "child": []
-  },
-  {
     "id": 212171,
     "name": "遍照花海，隐入群山",
     "englishName": "Radiance Over Blossoms and Peaks",
     "pinyin": "bianzhaohuahai，yinruqunshan",
     "aliases": [
-      "bzhh，yrqs",
-      "哥伦比娅天赋"
+      "bzhhyrqs",
+      "哥伦比娅天赋",
+      "少女天赋"
     ],
     "child": []
   },
@@ -11220,26 +11241,13 @@
     "pinyin": "cangleibenyong",
     "aliases": [
       "clby",
-      "雷泽天赋"
+      "雷泽天赋",
+      "雷泽魔导",
+      "雷泽天赋2",
+      "雷泽天赋二",
+      "雷泽魔导天赋"
     ],
-    "child": [
-      {
-        "id": 114021,
-        "name": "雷狼"
-      },
-      {
-        "id": 114021,
-        "name": "雷狼"
-      },
-      {
-        "id": 114021,
-        "name": "雷狼"
-      },
-      {
-        "id": 114021,
-        "name": "雷狼"
-      }
-    ]
+    "child": []
   },
   {
     "id": 215012,
@@ -11248,18 +11256,13 @@
     "pinyin": "qixunzhili",
     "aliases": [
       "qxzl",
-      "砂糖天赋"
+      "砂糖天赋",
+      "砂糖魔导",
+      "砂糖天赋2",
+      "砂糖天赋二",
+      "砂糖魔导天赋"
     ],
-    "child": [
-      {
-        "id": 115011,
-        "name": "大型风灵"
-      },
-      {
-        "id": 115011,
-        "name": "大型风灵"
-      }
-    ]
+    "child": []
   },
   {
     "id": 216042,
@@ -11268,17 +11271,13 @@
     "pinyin": "baimangzhishu",
     "aliases": [
       "bmzs",
-      "阿贝多天赋"
+      "阿贝多天赋",
+      "阿贝多魔导",
+      "阿贝多天赋2",
+      "阿贝多天赋二",
+      "阿贝多魔导天赋"
     ],
     "child": [
-      {
-        "id": 116041,
-        "name": "阳华"
-      },
-      {
-        "id": 116041,
-        "name": "阳华"
-      },
       {
         "id": 116042,
         "name": "瑰银"
@@ -11294,16 +11293,7 @@
       "szzm",
       "叶洛亚天赋"
     ],
-    "child": [
-      {
-        "id": 116122,
-        "name": "夜莺之歌"
-      },
-      {
-        "id": 116122,
-        "name": "夜莺之歌"
-      }
-    ]
+    "child": []
   },
   {
     "id": 312046,
@@ -11311,7 +11301,10 @@
     "englishName": "Recollection of Days Past",
     "pinyin": "xishifuxiangzhisi",
     "aliases": [
-      "xsfxzs"
+      "xsfxzs",
+      "昔时套",
+      "小昔时",
+      "昔时头"
     ],
     "child": []
   },
@@ -11319,11 +11312,20 @@
     "id": 330014,
     "name": "三月重临",
     "englishName": "Return of the Three Moons",
-    "pinyin": "sanyuezhonglin",
+    "pinyin": "sanyuechonglin",
     "aliases": [
-      "syzl"
+      "sycl"
     ],
-    "child": []
+    "child": [
+      {
+        "id": 300011,
+        "name": "月华"
+      },
+      {
+        "id": 300012,
+        "name": "重临"
+      }
+    ]
   },
   {
     "id": 331012,
@@ -11331,12 +11333,27 @@
     "englishName": "Elemental Transfiguration: Overload Blessing",
     "pinyin": "yuansuhuanbian：chaozaizhuyou",
     "aliases": [
-      "yshb：czzy"
+      "yshbczzy",
+      "czzy",
+      "超载祝佑",
+      "超载幻变",
+      "火雷助佑",
+      "火雷幻变",
+      "火雷",
+      "雷火助佑",
+      "雷火幻变",
+      "雷火",
+      "追燃",
+      "霆击"
     ],
     "child": [
       {
         "id": 303121,
         "name": "超载祝佑·追燃"
+      },
+      {
+        "id": 303122,
+        "name": "超载祝佑·霆击"
       }
     ]
   }
