@@ -1169,12 +1169,20 @@
         "name": "万古潮汐"
       },
       {
+        "id": 112172,
+        "name": "引力涟漪"
+      },
+      {
         "id": 12173,
         "name": "她的乡愁"
       },
       {
-        "id": 112161,
-        "name": "冷静一下鸭"
+        "id": 112171,
+        "name": "月之领域"
+      },
+      {
+        "id": 205,
+        "name": "雷暴云"
       },
       {
         "id": 12174,
@@ -2996,6 +3004,33 @@
       {
         "id": 15164,
         "name": "月兆祝赐·檐上趱行"
+      }
+    ]
+  },
+  {
+    "id": 1517,
+    "name": "法尔伽",
+    "englishName": "Varka",
+    "pinyin": "faerga",
+    "aliases": [
+      "feg"
+    ],
+    "child": [
+      {
+        "id": 15171,
+        "name": "西风剑术·流光之舞"
+      },
+      {
+        "id": 15172,
+        "name": "烈风终坠"
+      },
+      {
+        "id": 115171,
+        "name": "狂飙突进"
+      },
+      {
+        "id": 15173,
+        "name": "我即朔风"
       }
     ]
   },
@@ -5409,16 +5444,6 @@
     ]
   },
   {
-    "id": 116121,
-    "name": "阿咚",
-    "englishName": "Aedon",
-    "pinyin": "adong",
-    "aliases": [
-      "ad"
-    ],
-    "child": []
-  },
-  {
     "id": 211011,
     "name": "唯此一心",
     "englishName": "Undivided Heart",
@@ -6162,6 +6187,17 @@
     ]
   },
   {
+    "id": 213172,
+    "name": "升华赞歌",
+    "englishName": "Ode to Ascension",
+    "pinyin": "shenghuazange",
+    "aliases": [
+      "shzg",
+      "杜林天赋"
+    ],
+    "child": []
+  },
+  {
     "id": 214011,
     "name": "噬星魔鸦",
     "englishName": "Stellar Predator",
@@ -6716,6 +6752,28 @@
     "aliases": [
       "axdxh",
       "雅珂达天赋"
+    ],
+    "child": []
+  },
+  {
+    "id": 215171,
+    "name": "「因为无人能夺去我们歌唱的自由」",
+    "englishName": "\"For None May Take From Us Our Freedom of Song\"",
+    "pinyin": "「yinweiwurennengduoquwomengechangdeziyou」",
+    "aliases": [
+      "「ywwrndqwmgcdzy」",
+      "法尔伽天赋"
+    ],
+    "child": []
+  },
+  {
+    "id": 215172,
+    "name": "重光临晨",
+    "englishName": "Dawn's Return",
+    "pinyin": "chongguanglinchen",
+    "aliases": [
+      "cglc",
+      "法尔伽天赋"
     ],
     "child": []
   },
@@ -8767,6 +8825,16 @@
     "child": []
   },
   {
+    "id": 312047,
+    "name": "昔时之歌",
+    "englishName": "Song of Days Past",
+    "pinyin": "xishizhige",
+    "aliases": [
+      "xszg"
+    ],
+    "child": []
+  },
+  {
     "id": 312101,
     "name": "破冰踏雪的回音",
     "englishName": "Broken Rime's Echo",
@@ -9448,6 +9516,16 @@
     "child": []
   },
   {
+    "id": 321042,
+    "name": "千柱之殿",
+    "englishName": "Hall of a Thousand Pillars",
+    "pinyin": "qianzhuzhidian",
+    "aliases": [
+      "qzzd"
+    ],
+    "child": []
+  },
+  {
     "id": 322001,
     "name": "派蒙",
     "englishName": "Paimon",
@@ -9788,6 +9866,16 @@
     "child": []
   },
   {
+    "id": 322035,
+    "name": "彩特琳德",
+    "englishName": "Zeitlind",
+    "pinyin": "caitelinde",
+    "aliases": [
+      "ctld"
+    ],
+    "child": []
+  },
+  {
     "id": 323001,
     "name": "参量质变仪",
     "englishName": "Parametric Transformer",
@@ -10025,6 +10113,16 @@
     "child": []
   },
   {
+    "id": 330015,
+    "name": "浮槃之歌",
+    "englishName": "Streaming Song",
+    "pinyin": "fupanzhige",
+    "aliases": [
+      "fpzg"
+    ],
+    "child": []
+  },
+  {
     "id": 331004,
     "name": "元素幻变：超导祝佑",
     "englishName": "Elemental Transfiguration: Superconduct Blessing",
@@ -10192,6 +10290,41 @@
       {
         "id": 303121,
         "name": "超载祝佑·追燃"
+      },
+      {
+        "id": 303122,
+        "name": "超载祝佑·霆击"
+      }
+    ]
+  },
+  {
+    "id": 331013,
+    "name": "元素幻变：燃烧祝佑",
+    "englishName": "Elemental Transfiguration: Burning Blessing",
+    "pinyin": "yuansuhuanbian：ranshaozhuyou",
+    "aliases": [
+      "yshb：rszy"
+    ],
+    "child": [
+      {
+        "id": 303131,
+        "name": "燃烧祝佑·极限火势"
+      },
+      {
+        "id": 115,
+        "name": "燃烧烈焰"
+      },
+      {
+        "id": 115,
+        "name": "燃烧烈焰"
+      },
+      {
+        "id": 3003132,
+        "name": "燃烧祝佑·极限协奏"
+      },
+      {
+        "id": 115,
+        "name": "燃烧烈焰"
       }
     ]
   },
