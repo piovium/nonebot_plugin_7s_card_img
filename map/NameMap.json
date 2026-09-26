@@ -11062,7 +11062,9 @@
       "htzn",
       "杜林天赋",
       "白焰之龙",
-      "黑蚀之龙"
+      "黑蚀之龙",
+      "杜林天赋1",
+      "杜林天赋一"
     ],
     "child": []
   },
@@ -11307,7 +11309,6 @@
     "pinyin": "xishifuxiangzhisi",
     "aliases": [
       "xsfxzs",
-      "昔时套",
       "小昔时",
       "昔时头"
     ],
@@ -11366,9 +11367,12 @@
     "id": 1517,
     "name": "法尔伽",
     "englishName": "Varka",
-    "pinyin": "faerga",
+    "pinyin": "faerja",
     "aliases": [
-      "feg"
+      "fej",
+      "团长",
+      "大团长",
+      "北风骑士"
     ],
     "child": [
       {
@@ -11396,7 +11400,11 @@
     "pinyin": "shenghuazange",
     "aliases": [
       "shzg",
-      "杜林天赋"
+      "杜林天赋",
+      "杜林魔导",
+      "杜林天赋2",
+      "杜林天赋二",
+      "杜林魔导天赋"
     ],
     "child": []
   },
@@ -11406,8 +11414,10 @@
     "englishName": "\"For None May Take From Us Our Freedom of Song\"",
     "pinyin": "「yinweiwurennengduoquwomengechangdeziyou」",
     "aliases": [
-      "「ywwrndqwmgcdzy」",
-      "法尔伽天赋"
+      "ywwrndqwmgcdzy",
+      "法尔伽天赋",
+      "法尔伽天赋1",
+      "法尔伽天赋一"
     ],
     "child": []
   },
@@ -11418,7 +11428,11 @@
     "pinyin": "chongguanglinchen",
     "aliases": [
       "cglc",
-      "法尔伽天赋"
+      "法尔伽天赋",
+      "法尔伽魔导",
+      "法尔伽天赋2",
+      "法尔伽天赋二",
+      "法尔伽魔导天赋"
     ],
     "child": []
   },
@@ -11428,7 +11442,9 @@
     "englishName": "Song of Days Past",
     "pinyin": "xishizhige",
     "aliases": [
-      "xszg"
+      "xszg",
+      "昔时套",
+      "大昔时"
     ],
     "child": []
   },
@@ -11438,7 +11454,9 @@
     "englishName": "Hall of a Thousand Pillars",
     "pinyin": "qianzhuzhidian",
     "aliases": [
-      "qzzd"
+      "qzzd",
+      "空之神殿",
+      "kzsd"
     ],
     "child": []
   },
@@ -11458,7 +11476,12 @@
     "englishName": "Streaming Song",
     "pinyin": "fupanzhige",
     "aliases": [
-      "fpzg"
+      "fpzg",
+      "三王",
+      "三色",
+      "三色幻变",
+      "三色祝佑",
+      "三色共鸣"
     ],
     "child": []
   },
@@ -11468,7 +11491,18 @@
     "englishName": "Elemental Transfiguration: Burning Blessing",
     "pinyin": "yuansuhuanbian：ranshaozhuyou",
     "aliases": [
-      "yshb：rszy"
+      "yshbrszy",
+      "rszy",
+      "燃烧祝佑",
+      "燃烧幻变",
+      "火草助佑",
+      "火草幻变",
+      "火草",
+      "草火助佑",
+      "草火幻变",
+      "草火",
+      "极限火势",
+      "极限协奏"
     ],
     "child": [
       {
@@ -11476,20 +11510,8 @@
         "name": "燃烧祝佑·极限火势"
       },
       {
-        "id": 115,
-        "name": "燃烧烈焰"
-      },
-      {
-        "id": 115,
-        "name": "燃烧烈焰"
-      },
-      {
         "id": 3003132,
         "name": "燃烧祝佑·极限协奏"
-      },
-      {
-        "id": 115,
-        "name": "燃烧烈焰"
       }
     ]
   }
