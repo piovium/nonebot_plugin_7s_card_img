@@ -93,7 +93,7 @@ if __name__ == "__main__":
     eData = load_json_from_url("https://static-data.7shengzhaohuan.online/api/v5/data/beta/CHS/entities").get("data")
 
     # 根据 category 字段筛选
-    characters = [item for item in cData if item.get("category") == "characters"]
+    characters = [item for item in cData if item.get("category") == "characters" and item.get("shareId") is not None]
     actions = [item for item in eData if item.get("shareId") is not None]
     entities = [item for item in eData if item.get("shareId") is None]
 
