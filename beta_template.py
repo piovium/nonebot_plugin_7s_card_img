@@ -93,13 +93,12 @@ if __name__ == "__main__":
             return json.load(f)
 
     cData = load_json_from_url("https://static-data.7shengzhaohuan.online/api/v5/data/beta/CHS/characters").get("data")
-    aData = load_json_from_url("https://static-data.7shengzhaohuan.online/api/v5/data/beta/CHS/action_cards").get("data")
     eData = load_json_from_url("https://static-data.7shengzhaohuan.online/api/v5/data/beta/CHS/entities").get("data")
 
     # 根据 category 字段筛选
     characters = [item for item in cData if item.get("category") == "characters"]
-    actions = [item for item in aData if item.get("category") == "action_cards"]
-    entities = [item for item in eData if item.get("category") == "entities"]
+    actions = [item for item in eData if item.get("shareId") is not None]
+    entities = [item for item in eData if item.get("shareId") is None]
 
     db = generate_namemap(characters, actions, entities)
 
